@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+    "baseUrl": "./resources/js",
+    "module": "ES6",
+    "jsx": "react",
+    "checkjs": true
+  },
+  "exclude": ["node_modules", "**/node_modules/*"]
+}
